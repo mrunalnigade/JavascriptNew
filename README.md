@@ -1,0 +1,2 @@
+# JavascriptNew
+A code repo for JavaScript  series
